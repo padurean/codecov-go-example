@@ -1,3 +1,0 @@
-mode: atomic
-/Users/ogg/ws/github/codecov-go-example/example.go:3.24,5.2 1 1
-/Users/ogg/ws/github/codecov-go-example/example.go:6.24,8.2 1 0
