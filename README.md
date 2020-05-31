@@ -1,3 +1,5 @@
+![CI](https://github.com/padurean/codecov-go-example/workflows/CI/badge.svg)
+
 Steps:
 1. `go test -race -coverprofile=coverage.txt -covermode=atomic ./...`
 2. `bash <(curl -s https://codecov.io/bash)`
